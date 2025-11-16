@@ -1,0 +1,5 @@
+{
+  "name": "Grehni: AI Finance Planner",
+  "description": "A secure and intelligent finance planner that automatically syncs with your bank accounts, provides real-time AI-driven expense categorization, and allows for easy manual overrides with a swipeable UI.",
+  "requestFramePermissions": []
+}
